@@ -1,5 +1,5 @@
 # Towards Open Heritage Science 
-> Our only way forward 
+> Enabling beautiful interdisciplinary collaborative research of cultural heritage objects 
 
 
-Why we need to change our way of working now.
+Explain why this is required to move forward.

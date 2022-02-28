@@ -2,4 +2,4 @@
 > Enabling interdisciplinary research of cultural heritage objects 
 
 
-**Working on it!**
+**Working on it...**

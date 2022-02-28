@@ -6,7 +6,7 @@ index = {}
 
 modules = []
 
-doc_url = "https://fligt.github.io/openheritagescience/"
+doc_url = "https://fligt.github.io/"
 
 git_url = "https://github.com/fligt/openheritagescience/tree/master/"
 

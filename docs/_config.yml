@@ -2,7 +2,7 @@ repository: fligt/openheritagescience
 output: web
 topnav_title: openheritagescience
 site_title: openheritagescience
-company_name: CC-NC-BY
+company_name: Frank Ligterink
 description: Enabling interdisciplinary research of cultural heritage
 # Set to false to disable KaTeX math
 use_math: true
@@ -63,4 +63,5 @@ plugins:
     - jekyll-remote-theme
     
 remote_theme: fastai/nbdev-jekyll-theme
+#baseurl: /openheritagescience/
 baseurl: /openheritagescience/

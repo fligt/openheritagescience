@@ -1,4 +1,4 @@
-# Towards open heritage science 
+# Welcome to open heritage science
 > Enabling interdisciplinary research of cultural heritage 
 
 

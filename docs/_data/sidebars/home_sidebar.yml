@@ -10,8 +10,11 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: 'Big data problems '
-      url: big-data-problems.html
+      title: Towards open heritage science
+      url: Towards-open-heritage-science.html
+    - output: web,pdf
+      title: 'Obstacles for interdisciplinary cooperation '
+      url: why-is-interdisciplinary-heritage-research-hard.html
     output: web
     title: openheritagescience
   output: web

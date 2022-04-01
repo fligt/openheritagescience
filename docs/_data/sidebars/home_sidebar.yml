@@ -13,8 +13,8 @@ entries:
       title: Towards open heritage science
       url: Towards-open-heritage-science.html
     - output: web,pdf
-      title: 'Obstacles for interdisciplinary cooperation '
-      url: why-is-interdisciplinary-heritage-research-hard.html
+      title: 'Obstacles for interdisciplinary research '
+      url: obstacles-for-interdisciplinary-research.html
     output: web
     title: openheritagescience
   output: web

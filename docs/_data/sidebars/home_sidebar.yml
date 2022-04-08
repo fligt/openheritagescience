@@ -15,6 +15,9 @@ entries:
     - output: web,pdf
       title: 'Obstacles for interdisciplinary research '
       url: obstacles-for-interdisciplinary-research.html
+    - output: web,pdf
+      title: Bibliography
+      url: bibliography.html
     output: web
     title: openheritagescience
   output: web

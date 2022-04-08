@@ -61,7 +61,6 @@ sidebars:
 
 plugins:
     - jekyll-remote-theme
-    - jekyll-scholar
 
     
 remote_theme: fastai/nbdev-jekyll-theme
